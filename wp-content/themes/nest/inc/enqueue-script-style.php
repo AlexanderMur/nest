@@ -1,12 +1,12 @@
 <?php
 function nest_scripts() {
 	wp_enqueue_script( 'jquery');
-	wp_enqueue_style( 'nest-style', get_stylesheet_uri() );
+	// wp_enqueue_style( 'nest-style', get_stylesheet_uri() );
 
-	// wp_enqueue_style( 'nest-style', get_template_directory_uri() . '/style.min.css' );
+	wp_enqueue_style( 'nest-style', get_template_directory_uri() . '/style.min.css' );
 
-	wp_enqueue_script( 'nest-scripts', get_template_directory_uri() . '/js/scripts.min.js', array('jquery'), '20151215', true );
-	// wp_enqueue_script( 'nest-scripts', get_template_directory_uri() . '/js/scripts3.min.js', array('jquery'), '20151215', true );
+	// wp_enqueue_script( 'nest-scripts', get_template_directory_uri() . '/js/scripts.min.js', array('jquery'), '20151215', true );
+	wp_enqueue_script( 'nest-scripts', get_template_directory_uri() . '/js/scripts3.min.js', array('jquery'), '20151215', true );
 	wp_enqueue_script( 'nest-cart', get_template_directory_uri() . '/js/cart.js', array('jquery'), '20151215', true );
 	wp_enqueue_script( 'mask-js', get_template_directory_uri() . '/js/jquery.mask.min.js', array('jquery'), '20151215', true );
 
