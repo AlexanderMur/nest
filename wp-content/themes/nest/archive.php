@@ -1,4 +1,4 @@
-<?php get_header() ?>
+<?php get_header(); ?>
 <div class="page__wrap news">
 	<div class="container">
 		<div class="row">
