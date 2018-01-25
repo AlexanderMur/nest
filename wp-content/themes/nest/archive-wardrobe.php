@@ -9,13 +9,11 @@
 				<div class="page__content">
 					<div class="wardrobe__wrap">
 					    <?php
-
 					    while(have_posts()){
 					    	the_post();
 					    	get_template_part('content','archive-project');
 					    }
 					    ?>
-
 					</div>
 				</div>
 			</div>

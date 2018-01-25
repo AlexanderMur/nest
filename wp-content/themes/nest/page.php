@@ -1,6 +1,5 @@
 <?php get_header() ?>
 <?php the_post() ?>
-
 <div class="page__wrap cart partners">
 	<div class="container">
 		<div class="row">
@@ -15,18 +14,5 @@
 			</div>
 		</div>
 	</div>
-<!-- No!!! -->
-<!-- No!!! -->
-<!-- No!!! -->
-<!-- No!!! -->
-<!-- No!!! -->
-<!-- No!!! -->
-<!-- No!!! -->
-<!-- No!!! -->
-<!-- No!!! -->
-<!-- No!!! -->
-<!-- No!!! -->
-<!-- No!!! -->
-
 </div>
 <?php get_footer() ?>

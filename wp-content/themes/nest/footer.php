@@ -46,18 +46,5 @@
 			</footer>
 		</div>
 		<?php wp_footer() ?>
-		<!-- aaaasxzzx -->
-		<!-- aaaa -->
-		<!-- aaaa -->
-		<!-- aaaa -->
-		<!-- aaaa -->
-		<!-- aaaa -->
-		<!-- aaaa -->
-		<!-- aaaa -->
-		<!-- aaaa -->
-		<!-- aaaa -->
-		<!-- aaaa -->
-		<!-- aaaa -->
-		<!-- aaaa2 -->
 	</body>
 </html>
