@@ -1,10 +1,10 @@
 <?php 
 /*
 Template Name: Home Page
+OK yes??
 */
 ?>
 <?php get_header() ?>
-
 <div class="page__wrap page__main">
 	<div class="container">
 		<div class="row">
@@ -32,4 +32,6 @@ Template Name: Home Page
 		</div>
 	</div>
 </div>
+
+
 <?php get_footer() ?>
