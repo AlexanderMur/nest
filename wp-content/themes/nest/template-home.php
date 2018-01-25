@@ -4,6 +4,7 @@ Template Name: Home Page
 */
 ?>
 <?php get_header() ?>
+
 <div class="page__wrap page__main">
 	<div class="container">
 		<div class="row">
@@ -20,7 +21,7 @@ Template Name: Home Page
 							<?php
 						}
 						?>
-						
+
 					</div>
 					<div class="page__text">
 						<h1 class="h1"><?php echo get_theme_mod('homepage_title') ?></h1>
