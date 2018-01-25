@@ -14,11 +14,11 @@ Template Name: Home Page
 				<div class="page__content">
 					<div class="slider">
 						<?php 
-							foreach (get_theme_mod('homepage_slider') as $key => $slide) {
-								?>									
-								<div style="background-image: url(<?php echo wp_get_attachment_image_src($slide['image'],'full')[0] ?>)" class="slider__img"></div>
-								<?php
-							}
+						foreach (get_theme_mod('homepage_slider') as $key => $slide) {
+							?>									
+							<div style="background-image: url(<?php echo wp_get_attachment_image_src($slide['image'],'full')[0] ?>)" class="slider__img"></div>
+							<?php
+						}
 						?>
 					</div>
 					<div class="page__text">
