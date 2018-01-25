@@ -1,5 +1,6 @@
 <?php get_header() ?>
 <?php the_post() ?>
+
 <div class="page__wrap cart partners">
 	<div class="container">
 		<div class="row">
