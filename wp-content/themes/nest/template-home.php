@@ -20,6 +20,7 @@ Template Name: Home Page
 							<?php
 						}
 						?>
+						
 					</div>
 					<div class="page__text">
 						<h1 class="h1"><?php echo get_theme_mod('homepage_title') ?></h1>
