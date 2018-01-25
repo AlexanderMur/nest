@@ -23,5 +23,5 @@
 	</div>
 </div>
 
-
+<!-- YES!! -->
 <?php get_footer() ?>
