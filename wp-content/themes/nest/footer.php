@@ -47,5 +47,6 @@
 		</div>
 		<?php wp_footer() ?>
 		<!-- aaaa -->
+		<!-- aaaa2 -->
 	</body>
 </html>
