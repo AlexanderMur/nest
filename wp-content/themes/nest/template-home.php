@@ -1,7 +1,6 @@
 <?php 
 /*
 Template Name: Home Page
-OK yes??
 */
 ?>
 <?php get_header() ?>
