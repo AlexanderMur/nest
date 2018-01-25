@@ -32,6 +32,6 @@ OK yes??
 		</div>
 	</div>
 </div>
-
+<!-- aaxz -->
 <!-- aaa -->
 <?php get_footer() ?>
